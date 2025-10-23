@@ -12,6 +12,7 @@ const Layout = () => {
         <div>
             <header>
                 <Hader></Hader>
+
                 <section className='w-11/12 mx-auto my-4  '>
                     <LatestNews></LatestNews>
                 </section>
